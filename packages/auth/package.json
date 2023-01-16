@@ -75,7 +75,7 @@
     "eslint-plugin-tsdoc": "^0.2.16",
     "ethers": "^5.7.2",
     "express": "^4.18.1",
-    "next": "^12.2.0",
+    "next": "^13",
     "next-auth": "^4.10.3",
     "prettier": "^2.7.1",
     "react": "^18.2.0",
@@ -86,7 +86,7 @@
     "@thirdweb-dev/sdk": "*",
     "ethers": ">=5.5.1",
     "express": "^4.18.1",
-    "next": "^12.2.0",
+    "next": "^13,
     "next-auth": "^4.10.3"
   },
   "peerDependenciesMeta": {
